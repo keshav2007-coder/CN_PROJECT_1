@@ -1,0 +1,14 @@
+
+DYNAMIC FIREWALL - TRAFFIC GENERATOR
+=============================================
+
+Attempt 1: Source port 40291
+[TIMEOUT] Connection timed out
+
+Attempt 2: Source port 40292
+[TIMEOUT] Connection timed out
+
+Attempt 3: Source port 40293
+[TIMEOUT] Connection timed out
+
+Traffic generation completed.

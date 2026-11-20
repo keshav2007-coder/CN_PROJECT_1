@@ -1,0 +1,4 @@
+run,condition,rtt_successes,rtt_expected,rtt_mean_ms,rtt_p95_ms,throughput_successes,throughput_mean_mbps,h2_state,block_response_mean_ms,status
+dynamic-03b1279ded,dynamic,90,90,164.9381427775855,216.00459999899613,3,76628.33087075684,blocked,1.0313333333333334,PASS
+dynamic-03b1279ded,recovered,90,90,184.60251686677415,215.63142399827484,3,72708.85466023104,reachable,,PASS
+static-ea16e937ce,static,90,90,160.9534090443857,216.85201600121218,3,75000.84336794,reachable,,PASS

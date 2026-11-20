@@ -1,0 +1,44 @@
+# Local Python environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+# Runtime databases and logs
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.sqlite3-*
+*.log
+# Keep audited experimental evidence, including its application and iperf logs
+!benchmark-results.GHxubQ/**/*.log
+# New demo/benchmark output should be reviewed before publication
+demo-output.*/
+benchmark-results.*/
+!benchmark-results.GHxubQ/
+!benchmark-results.GHxubQ/**
+# Default controller output is retained as historical evidence; avoid appending to it.
+# Set FIREWALL_RESPONSE_CSV to a fresh demo-output directory instead.
+# Private local settings and editor artifacts
+.env
+.env.*
+!.env.example
+.aws/
+.codex/
+.agents/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+CN_git_clean/
+CN_git_clean.zip

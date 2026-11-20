@@ -1,0 +1,13 @@
+{
+  "utc": "2026-11-11T13:36:59.075188+00:00",
+  "operator_selected_mode": "static",
+  "rtt_per_trial": 30,
+  "rtt_spacing_seconds": 0.2,
+  "trials": 3,
+  "iperf_seconds": 10,
+  "throughput_statistic": "receiver Mbps",
+  "load": "H3 RTT concurrent with H3 iperf in every trial",
+  "response_csv": "benchmark-results.GHxubQ/static-response.csv",
+  "p95": "nearest rank",
+  "rtt_definition": "TCP connect plus request/ACK; excludes interpreter startup"
+}

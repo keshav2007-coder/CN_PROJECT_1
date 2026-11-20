@@ -1,0 +1,2 @@
+# Controller only. Mininet is installed through the Linux package manager.
+os-ken==3.1.1

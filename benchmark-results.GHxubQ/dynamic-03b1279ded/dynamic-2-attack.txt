@@ -1,0 +1,14 @@
+
+DYNAMIC FIREWALL - TRAFFIC GENERATOR
+=============================================
+
+Attempt 1: Source port 54033
+[TIMEOUT] Connection timed out
+
+Attempt 2: Source port 54034
+[TIMEOUT] Connection timed out
+
+Attempt 3: Source port 54035
+[TIMEOUT] Connection timed out
+
+Traffic generation completed.

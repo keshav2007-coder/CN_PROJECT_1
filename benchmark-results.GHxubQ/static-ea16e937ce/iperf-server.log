@@ -1,0 +1,63 @@
+-----------------------------------------------------------
+Server listening on 5201 (test #1)
+-----------------------------------------------------------
+Accepted connection from 10.0.0.3, port 50342
+[  7] local 10.0.0.10 port 5201 connected to 10.0.0.3 port 50346
+[ ID] Interval           Transfer     Bitrate
+[  7]   0.00-1.00   sec  7.10 GBytes  61.0 Gbits/sec                  
+[  7]   1.00-2.00   sec  9.29 GBytes  79.7 Gbits/sec                  
+[  7]   2.00-3.00   sec  9.36 GBytes  80.4 Gbits/sec                  
+[  7]   3.00-4.00   sec  8.29 GBytes  71.2 Gbits/sec                  
+[  7]   4.00-5.00   sec  8.77 GBytes  75.4 Gbits/sec                  
+[  7]   5.00-6.00   sec  8.68 GBytes  74.6 Gbits/sec                  
+[  7]   6.00-7.00   sec  9.28 GBytes  79.7 Gbits/sec                  
+[  7]   7.00-8.00   sec  9.52 GBytes  81.8 Gbits/sec                  
+[  7]   8.00-9.00   sec  9.47 GBytes  81.4 Gbits/sec                  
+[  7]   9.00-10.00  sec  9.28 GBytes  79.7 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate
+[  7]   0.00-10.00  sec  89.0 GBytes  76.5 Gbits/sec                  receiver
+-----------------------------------------------------------
+Server listening on 5201 (test #2)
+-----------------------------------------------------------
+Accepted connection from 10.0.0.3, port 45360
+[  7] local 10.0.0.10 port 5201 connected to 10.0.0.3 port 45374
+[ ID] Interval           Transfer     Bitrate
+[  7]   0.00-1.00   sec  6.94 GBytes  59.5 Gbits/sec                  
+[  7]   1.00-2.00   sec  9.19 GBytes  78.9 Gbits/sec                  
+[  7]   2.00-3.00   sec  9.38 GBytes  80.6 Gbits/sec                  
+[  7]   3.00-4.00   sec  9.39 GBytes  80.7 Gbits/sec                  
+[  7]   4.00-5.00   sec  9.14 GBytes  78.5 Gbits/sec                  
+[  7]   5.00-6.00   sec  9.16 GBytes  78.7 Gbits/sec                  
+[  7]   6.00-7.00   sec  9.05 GBytes  77.8 Gbits/sec                  
+[  7]   7.00-8.00   sec  8.97 GBytes  77.0 Gbits/sec                  
+[  7]   8.00-9.00   sec  9.02 GBytes  77.5 Gbits/sec                  
+[  7]   9.00-10.00  sec  9.02 GBytes  77.5 Gbits/sec                  
+[  7]  10.00-10.00  sec   384 KBytes  5.20 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate
+[  7]   0.00-10.00  sec  89.3 GBytes  76.7 Gbits/sec                  receiver
+-----------------------------------------------------------
+Server listening on 5201 (test #3)
+-----------------------------------------------------------
+Accepted connection from 10.0.0.3, port 39978
+[  7] local 10.0.0.10 port 5201 connected to 10.0.0.3 port 39988
+[ ID] Interval           Transfer     Bitrate
+[  7]   0.00-1.00   sec  6.80 GBytes  58.3 Gbits/sec                  
+[  7]   1.00-2.00   sec  8.93 GBytes  76.7 Gbits/sec                  
+[  7]   2.00-3.00   sec  8.78 GBytes  75.4 Gbits/sec                  
+[  7]   3.00-4.00   sec  9.03 GBytes  77.6 Gbits/sec                  
+[  7]   4.00-5.00   sec  8.15 GBytes  70.0 Gbits/sec                  
+[  7]   5.00-6.00   sec  8.24 GBytes  70.8 Gbits/sec                  
+[  7]   6.00-7.00   sec  8.83 GBytes  75.9 Gbits/sec                  
+[  7]   7.00-8.00   sec  8.01 GBytes  68.8 Gbits/sec                  
+[  7]   8.00-9.00   sec  8.28 GBytes  71.1 Gbits/sec                  
+[  7]   9.00-10.00  sec  8.60 GBytes  73.9 Gbits/sec                  
+[  7]  10.00-10.00  sec   128 KBytes  1.30 Gbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate
+[  7]   0.00-10.00  sec  83.7 GBytes  71.9 Gbits/sec                  receiver
+iperf3: interrupt - the server has terminated by signal Terminated(15)
+-----------------------------------------------------------
+Server listening on 5201 (test #4)
+-----------------------------------------------------------
